@@ -9,7 +9,7 @@
     width: 100%;
     height: 100vh;
     background-image: linear-gradient(rgba(0,0,0,0,75),rgba(0,0,0,0.75));
-    background: url(bac.jpg);
+    background: url();
     background-size: cover;
     background-position: center;
 
@@ -24,15 +24,36 @@
     justify-content: space-between;
 }
 
-navbar ul li {
+.navbar ul li {
     list-style: none;
     display: inline-block;
     margin: 0 20px;
     position: relative
 }
 
-navbar ul li a{
+.navbar ul li a{
     text-align: none;
     color: #fff;
     text-transform: uppercase;
+}
+
+.navbar ul li::after {
+    content: '';
+    height: 3px;
+    width: 0;
+    background: #009688;
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    transition: 0.5s;
+
+}
+
+.content {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50px);
+    text-align: center;
+    color:white;
 }
