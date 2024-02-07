@@ -60,8 +60,13 @@
                 </div>
             </div>
         </div>
+        <div id="services">
+            <div class="container">
+                <h1 class="subtitle">About Me</h1>
+            </div>
+        </div>
         <script>
-            var tablinks = document.getElementsByClassName('tab-lonks');
+            var tablinks = document.getElementsByClassName('tab-links');
             var tabcontents = document.getElementsByClassName('tab-contents');
             function opentab(tabname){
                 for(tablink of tablinks){
@@ -70,6 +75,8 @@
                 for(tabcontent of tabcontents){
                     tabcontent.classList.remove("active-tab");
                 }
+                event.currentTarget.classList.add("active-link");
+                document.getElementById(tabname).classList.add("active-tab");
             }
         </script>
     </body>
