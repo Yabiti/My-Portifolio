@@ -114,13 +114,13 @@ span {
     position: relative;
 }
 
-.tablinks::after{
+.tab-links::after{
     content: '';
     width: 0;
-    height: 3px;
+    height: 5px;
     background: #009688;
     position: absolute;
     left: 0;
-    bottom: -8px;
-    transition: 0.5s;
+    bottom: -8s;
+    transition: -5s;
 }
