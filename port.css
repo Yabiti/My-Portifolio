@@ -9,6 +9,8 @@ body {
     background-color: black;
     color: #fff;
     background-image: url(bac.jpg);
+    background-position: center;
+    background-size: cover;
 }
 
 #header {
