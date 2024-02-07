@@ -16,10 +16,10 @@
 }
 
 .navbar {
-    width: 85%;
+    width: 90%;
     margin: 0;
-    padding: 35px 0;
     display: flex;
+    padding: 35px 0;
     align-items: center;
     justify-content: space-between;
     direction: rtl;
@@ -53,7 +53,7 @@
 }
 
 .content {
-    width: 100%;
+    width: 0%;
     position: absolute;
     top: 50%;
     transform: translateY(-50px);
