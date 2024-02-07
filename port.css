@@ -128,3 +128,19 @@ span {
 .tab-links.active-link::after{
     width: 100%;
 }
+.tab-contents ul li{
+    margin:10px 0;
+
+}
+
+.tab-contents ul li span{
+    font-size: 14px;
+}
+
+.tab-contents{
+    display: none;
+}
+
+.tab-contents.active-tab{
+    display: block;
+}
