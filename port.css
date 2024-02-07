@@ -162,6 +162,7 @@ span {
     font-size: 13px;
     font-weight: 300;
     border-radius: 10px;
+    transition: background 0.5s, transform 0.5s;
 }
 .services-list div h2{
     font-size: 30px;
