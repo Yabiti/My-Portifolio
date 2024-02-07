@@ -231,4 +231,7 @@ span {
     margin-top: 20px;
     color: #ff004f;
     text-decoration: none;
+    font-size: 10px;
+    line-height: 10px;
+    background: #fff;
 }
