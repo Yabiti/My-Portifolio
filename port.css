@@ -65,7 +65,11 @@
     width: 100%;
 }
 .header{
-    padding: 70px;
+    padding: 90px;
     font-size: 30px;
     color: #fff;
+}
+
+span {
+    color: aqua;
 }
