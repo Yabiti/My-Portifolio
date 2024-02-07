@@ -10,7 +10,18 @@ body {
     height: 100hv;
     background-color: black;
     color: #fff;
-    background-image: url(bac.jpg);
+    background-image: url();
     background-position: center;
     background-size: cover;
+}
+
+.container {
+    padding: 10px 10%;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
