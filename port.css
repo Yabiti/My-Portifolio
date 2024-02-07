@@ -13,4 +13,7 @@ body {
 #header {
     width: 100%;
     height: 100hv;
+    background-image: url(bac.jpg);
+    background-size: cover;
+    background-position: center;
 }
