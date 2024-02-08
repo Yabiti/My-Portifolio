@@ -300,5 +300,13 @@ span {
 
 .btn.btn2{
     display: inline-block;
-    background: #009688;
+    background: #ff004f;
+}
+
+.contact-right form{
+    width: 100%;
+}
+
+form input, form textarea{
+    width: 100%;
 }
