@@ -289,4 +289,5 @@ span {
     font-size: 30px;
     margin-right: 15px;
     color: #009688;
+    display: inline-block;
 }
