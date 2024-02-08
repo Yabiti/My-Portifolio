@@ -358,5 +358,10 @@ nav .fas{
         bottom: 0;
         width: 200px;
         height: 100hv;
+        padding-top: 50px;
+    }
+    nav ul li{
+        display: block;
+        margin: 25px;
     }
 }
