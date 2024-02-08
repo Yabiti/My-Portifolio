@@ -373,4 +373,7 @@ nav .fas{
         left: 25px;
         cursor: pointer;
     }
+    .subtitle{
+        font-size: 40px;
+    }
 }
