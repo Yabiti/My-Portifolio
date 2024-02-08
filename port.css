@@ -283,3 +283,8 @@ span {
 .social-icons{
     margin-top: 25px;
 }
+
+.social-icons a{
+    text-decoration: none;
+    font-size: 30px;
+}
