@@ -341,5 +341,8 @@ form .btn2{
 @media only screen and(max-width: 600px){
     #banner{
         background-image: url();
-    }   
+    }
+    .header{
+        
+    }
 }
