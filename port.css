@@ -366,5 +366,6 @@ nav .fas{
     }
     nav ul .fas{
         position: absolute;
+        top: 25px;
     }
 }
