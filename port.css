@@ -297,3 +297,8 @@ span {
     color: #ff004f;
     transform: translateY(-5px);
 }
+
+.btn.btn2{
+    display: inline-block;
+    background: #009688;
+}
