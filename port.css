@@ -351,4 +351,8 @@ nav .fas{
     nav .fas{
         display: none;
     }
+    nav.ul{
+        background: #ff004f;
+        position: fixed;
+    }
 }
