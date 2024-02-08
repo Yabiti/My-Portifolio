@@ -268,8 +268,14 @@ span {
 }
 
 .contact-right{
-    flex-basis: 15%;
+    flex-basis: 60%;
 }
-.contact-left{
+.contact-left p{
     margin-top: 30px;
+}
+
+.contact-left p i{
+    color: #fff;
+    margin-right: 17px;
+    font-size: 25px;
 }
