@@ -336,7 +336,7 @@ form .btn2{
     margin-bottom: 20px;
 }
 
-nav fas{
+nav .fas{
     display: none;
 }
 
@@ -348,7 +348,7 @@ nav fas{
         margin-top: 100%;
         font-size: 10px;
     }
-    nav fas{
+    nav .fas{
         display: none;
     }
 }
