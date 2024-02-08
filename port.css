@@ -291,3 +291,8 @@ span {
     color: #009688;
     display: inline-block;
 }
+
+.social-icons a:hover{
+    color: #ff004f;
+    transform: translateY(-5px);
+}
