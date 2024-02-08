@@ -360,6 +360,7 @@ nav .fas{
         width: 200px;
         height: 100hv;
         padding-top: 50px;
+        z-index: 2;
     }
     nav ul li{
         display: block;
